@@ -4,11 +4,9 @@
 
 1. Language:  Java   
 
-2. File Formate: JSON
+2. Build Tool:  Gradle  
 
-3. Build Tool:  Gradle  
-
-4. IDE:  Intellij IDEA  
+3. IDE:  Intellij IDEA  
 
 ## Project details
 
