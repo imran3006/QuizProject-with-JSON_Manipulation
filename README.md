@@ -19,10 +19,12 @@ Program output:
 
 if user select option 1, then system will tell user to input a question, 4 options and correct ans to save data in a quiz bank. The quiz bank will be a json file. 
 
-If user select option 2,  then,
+If user select option 2,  then, 
+
 System> You will be asked 5 questions, each questions has 1 marks
 
-Finally 5 different random questions will appear from your question database. At least add 20 questions from any category from testing.
+Finally 5 different random questions will appear from your question database. At least add 20 questions from any category from testing. 
+
 Result: You got [correct_marks] out of 5  
 
 ## Solution:
